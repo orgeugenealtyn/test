@@ -1,4 +1,4 @@
-# feature_four
+'''Feaure Four module.'''
 
 def main():
 	pass
