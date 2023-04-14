@@ -1,8 +1,12 @@
 # feature_four
 
-def main():
+
+def feature_four():
 	pass
 
+
+def main():
+	feature_four()
 
 
 if __name__ == "__main__":
