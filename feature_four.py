@@ -1,8 +1,8 @@
 # feature_four
 
-
 def feature_four():
-	pass
+	print("feature")
+	print("four")
 
 
 def main():
